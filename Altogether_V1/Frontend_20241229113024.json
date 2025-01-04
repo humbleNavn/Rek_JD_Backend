@@ -1,0 +1,209 @@
+{
+  "title_section": {
+    "title": "```{\"onetonline_occupation_title\": \"Human Resources Managers\", \"onet_job_code\": \"11-3121.00\"}```"
+  },
+  "jd_format": [
+    {
+      "id": "title",
+      "value": "<h3>Job Title</h3><p>HR Business Partner</p>"
+    },
+    {
+      "id": "job_code",
+      "value": "<h3>Job Code</h3><p>HRBP-001</p>"
+    },
+    {
+      "id": "overview",
+      "value": "<h3>Overview</h3><p>As an HR Business Partner at Humble Bridge, you will play a pivotal role in aligning our HR strategy with business objectives. You will work closely with leadership to drive workforce planning, succession planning, and organizational design. Your expertise in HR management and labor relations will be crucial in enhancing employee experience and facilitating change management.</p>"
+    },
+    {
+      "id": "company_overview",
+      "value": "<h3>Company Overview</h3><p>Humble Bridge is a leading AI/ML company dedicated to driving digital transformation across various industries. We pride ourselves on our innovative solutions and commitment to excellence.</p>"
+    },
+    {
+      "id": "roles_&_responsibilities",
+      "value": "<h3>Roles & Responsibilities</h3><ul><li>Develop and implement HR strategies aligned with business goals.</li><li>Provide leadership coaching and support succession planning.</li><li>Manage labor relations and ensure compliance with Austrian labor law.</li><li>Enhance employee experience through effective organizational design and change management.</li><li>Assist in HR projects and initiatives as needed.</li><li>Support the HR team in various administrative tasks.</li></ul>"
+    },
+    {
+      "id": "requirements",
+      "value": "<h3>Requirements</h3><ul><li>Degree in Business Administration, Psychology, International Cultural and Business Studies, or related field.</li><li>Advanced degree in HR or related field is a plus.</li><li>5 years of experience.</li><li>HR certification is a plus.</li><li>Fluent in English (business), conversational in German.</li><li>Must be authorized to work in Austria.</li></ul>"
+    },
+    {
+      "id": "skills",
+      "value": "<h3>Skills</h3><ul><li>General knowledge of HR practices and Austrian labor law.</li><li>Familiarity with Microsoft Office and/or Google Workspace.</li><li>Strong leadership and coaching skills.</li><li>Excellent communication and interpersonal skills.</li><li>Experience with HRIS systems (preferred).</li><li>Ability to manage multiple priorities and projects (preferred).</li></ul>"
+    },
+    {
+      "id": "compensation_and_benefits",
+      "value": "<h3>Compensation and Benefits</h3><ul><li>Competitive salary based on experience.</li><li>Performance-based bonuses.</li><li>Health insurance, paid time off, and professional development opportunities.</li><li>A dynamic work environment with opportunities for growth and advancement.</li></ul>"
+    },
+    {
+      "id": "entry",
+      "value": "<h3>Entry</h3><p>Immediate availability preferred.</p>"
+    },
+    {
+      "id": "company_info",
+      "value": "<h3>Company Info</h3><p>Interested candidates should apply with their resume and cover letter.</p><p>Address: Humble Bridge, Vienna, Austria.</p>"
+    },
+    {
+      "id": "application_instructions",
+      "value": "<h3>Application Instructions</h3><p>Submit your application through our careers page or email it to hr@humblebridge.com.</p>"
+    },
+    {
+      "id": "reporting_line",
+      "value": "<h3>Reporting Line</h3><p>Reports to the Head of HR.</p>"
+    },
+    {
+      "id": "posted_date",
+      "value": "<h3>Posted Date</h3><p>2023-10-15</p>"
+    },
+    {
+      "id": "measures_of_outcome",
+      "value": "<h3>Measures of Outcome</h3><p>Successful implementation of HR strategies and improvement in employee satisfaction scores.</p>"
+    },
+    {
+      "id": "work_environment",
+      "value": "<h3>Work Environment</h3><ul><li>Monday to Friday, 9 AM to 5 PM.</li><li>Minimal travel required.</li><li>Full-time</li><li>Onsite in Vienna, Austria.</li><li>Permanent</li><li>Standard office environment.</li></ul>"
+    },
+    {
+      "id": "no._of_openings",
+      "value": "<h3>No. of Openings</h3><p>1</p>"
+    },
+    {
+      "id": "industry_type",
+      "value": "<h3>Industry Type</h3><p>AI/ML</p>"
+    },
+    {
+      "id": "department",
+      "value": "<h3>Department</h3><p>Human Resources</p>"
+    },
+    {
+      "id": "application_deadline",
+      "value": "<h3>Application Deadline</h3><p>2023-11-15</p>"
+    },
+    {
+      "id": "equal_employment_opportunity_(eeo)_statement",
+      "value": "<h3>Equal Employment Opportunity (EEO) Statement</h3><p>Humble Bridge is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.</p>"
+    },
+    {
+      "id": "diversity_and_inclusion_statement",
+      "value": "<h3>Diversity and Inclusion Statement</h3><p>We believe in the power of diversity and inclusion to drive innovation and success. Our team is committed to fostering a culture where everyone feels valued and respected.</p>"
+    },
+    {
+      "id": "interview_rounds",
+      "value": "<h3>Interview Rounds</h3><p>The interview process includes an initial phone screening, followed by two rounds of interviews with HR and department heads.</p>"
+    },
+    {
+      "id": "level",
+      "value": "<h3>Level</h3><p>Mid-level</p>"
+    }
+  ],
+  "suggestions": [
+    {
+      "id": "requirements",
+      "type": "checkbox",
+      "label": "Requirement",
+      "values": [
+        "Minimum 5 years of experience in a similar role.",
+        "Bachelor's degree in a relevant field.",
+        "Proficiency in English, both written and spoken.",
+        "Valid work authorization for the country of employment.",
+        "Strong understanding of industry-specific regulations.",
+        "Experience with project management tools.",
+        "Ability to work in a fast-paced environment.",
+        "Proven track record of meeting deadlines.",
+        "Experience in leading a team.",
+        "Strong analytical skills.",
+        "Ability to travel as required.",
+        "Experience with data analysis and reporting.",
+        "Familiarity with the company's industry.",
+        "Strong organizational skills.",
+        "Ability to work independently.",
+        "Experience with customer relationship management.",
+        "Knowledge of relevant software applications.",
+        "Ability to handle confidential information.",
+        "Experience in budget management.",
+        "Strong problem-solving skills."
+      ]
+    },
+    {
+      "id": "roles_&_responsibilities",
+      "type": "checkbox",
+      "label": "Responsibilities",
+      "values": [
+        "Lead and manage a team to achieve project goals.",
+        "Develop and implement strategic plans.",
+        "Coordinate with cross-functional teams.",
+        "Monitor project progress and adjust plans as needed.",
+        "Prepare and present reports to stakeholders.",
+        "Ensure compliance with industry regulations.",
+        "Manage project budgets and resources.",
+        "Identify and mitigate project risks.",
+        "Develop and maintain client relationships.",
+        "Conduct performance evaluations for team members.",
+        "Facilitate communication between departments.",
+        "Oversee the development of project deliverables.",
+        "Ensure quality standards are met.",
+        "Provide training and support to team members.",
+        "Develop and implement process improvements.",
+        "Manage project timelines and deliverables.",
+        "Coordinate with vendors and suppliers.",
+        "Conduct market research and analysis.",
+        "Develop and maintain project documentation.",
+        "Ensure customer satisfaction and address concerns."
+      ]
+    },
+    {
+      "id": "qualifications",
+      "type": "checkbox",
+      "label": "Qualifications",
+      "values": [
+        "Bachelor's degree in Business Administration or related field.",
+        "Master's degree preferred.",
+        "Certification in Project Management (e.g., PMP).",
+        "Proven experience in a leadership role.",
+        "Strong understanding of business operations.",
+        "Experience in strategic planning and execution.",
+        "Excellent communication and interpersonal skills.",
+        "Ability to manage multiple projects simultaneously.",
+        "Strong decision-making and leadership capabilities.",
+        "Experience in change management.",
+        "Ability to work under pressure and meet tight deadlines.",
+        "Strong negotiation skills.",
+        "Experience in financial analysis and reporting.",
+        "Knowledge of industry trends and best practices.",
+        "Ability to develop and implement innovative solutions.",
+        "Experience in stakeholder management.",
+        "Strong attention to detail.",
+        "Ability to adapt to changing priorities.",
+        "Experience in contract management.",
+        "Strong ethical standards and integrity."
+      ]
+    },
+    {
+      "id": "skills",
+      "type": "checkbox",
+      "label": "Skills",
+      "values": [
+        "Proficiency in Microsoft Office Suite.",
+        "Excellent written and verbal communication skills.",
+        "Strong leadership and team management skills.",
+        "Ability to analyze complex data and make informed decisions.",
+        "Proficiency in project management software.",
+        "Strong organizational and time management skills.",
+        "Ability to build and maintain relationships with stakeholders.",
+        "Strong problem-solving and critical thinking skills.",
+        "Ability to work collaboratively in a team environment.",
+        "Proficiency in data analysis tools.",
+        "Strong negotiation and conflict resolution skills.",
+        "Ability to manage and prioritize multiple tasks.",
+        "Strong customer service orientation.",
+        "Ability to adapt to new technologies and processes.",
+        "Proficiency in financial management software.",
+        "Strong presentation and public speaking skills.",
+        "Ability to work independently and take initiative.",
+        "Proficiency in CRM software.",
+        "Strong attention to detail and accuracy.",
+        "Ability to maintain confidentiality and handle sensitive information."
+      ]
+    }
+  ]
+}

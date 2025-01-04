@@ -1,0 +1,209 @@
+{
+  "title_section": {
+    "title": "```{\"onetonline_occupation_title\": \"Human Resources Managers\", \"onet_job_code\": \"11-3121.00\"}```"
+  },
+  "jd_format": [
+    {
+      "id": "title",
+      "value": "<h3>Job Title</h3><p>HR Business Partner</p>"
+    },
+    {
+      "id": "job_code",
+      "value": "<h3>Job Code</h3><p>HRBP-001</p>"
+    },
+    {
+      "id": "overview",
+      "value": "<h3>Overview</h3><p>As an HR Business Partner at Humble Bridge, you will play a pivotal role in aligning our HR strategy with business objectives. You will be responsible for strategic workforce planning, leadership coaching, and optimizing employee experience. Your expertise in HR management and knowledge of Austrian labor law will be crucial in driving organizational success.</p>"
+    },
+    {
+      "id": "company_overview",
+      "value": "<h3>Company Overview</h3><p>Humble Bridge is a leading AI/ML company dedicated to driving digital transformation across various industries. We pride ourselves on our innovative solutions and commitment to excellence.</p>"
+    },
+    {
+      "id": "roles_&_responsibilities",
+      "value": "<h3>Roles & Responsibilities</h3><ul><li>Develop and implement HR strategies aligned with the overall business strategy.</li><li>Manage workforce planning and succession planning.</li><li>Provide leadership coaching and support.</li><li>Enhance employee experience and engagement.</li><li>Ensure compliance with Austrian labor laws.</li><li>Facilitate organizational design and change management initiatives.</li><li>Assist in the development of HR policies and procedures.</li><li>Support recruitment and onboarding processes.</li></ul>"
+    },
+    {
+      "id": "requirements",
+      "value": "<h3>Requirements</h3><ul><li>Degree in Business Administration, Psychology, International Cultural and Business Studies, or related field.</li><li>Advanced degree in HR or related field is a plus.</li><li>5 years of experience.</li><li>HR certification such as SHRM-CP or PHR is preferred.</li><li>Fluent in English (business), conversational in German.</li><li>Must have legal authorization to work in Austria.</li></ul>"
+    },
+    {
+      "id": "skills",
+      "value": "<h3>Skills</h3><ul><li>General knowledge of HR practices and Austrian labor law. Familiarity with Microsoft Office and/or Google Workspace.</li><li>Strong leadership, communication, and interpersonal skills.</li><li>Experience with HRIS systems.</li><li>Ability to manage multiple priorities and work in a fast-paced environment.</li></ul>"
+    },
+    {
+      "id": "compensation_and_benefits",
+      "value": "<h3>Compensation and Benefits</h3><ul><li>Competitive salary based on experience.</li><li>Performance-based bonuses.</li><li>Comprehensive health insurance, paid time off, and retirement benefits.</li><li>Opportunities for professional growth and development in a dynamic and innovative environment.</li></ul>"
+    },
+    {
+      "id": "entry",
+      "value": "<h3>Entry</h3><p>Immediate availability preferred.</p>"
+    },
+    {
+      "id": "company_info",
+      "value": "<h3>Company Info</h3><p>Interested candidates are encouraged to apply by sending their resume and cover letter to careers@humblebridge.com.</p><p>Address: Humble Bridge, 123 Innovation Drive, Vienna, Austria.</p>"
+    },
+    {
+      "id": "application_instructions",
+      "value": "<h3>Application Instructions</h3><p>Submit your application through our careers page or email your resume and cover letter to careers@humblebridge.com.</p>"
+    },
+    {
+      "id": "reporting_line",
+      "value": "<h3>Reporting Line</h3><p>Reports to the Director of Human Resources.</p>"
+    },
+    {
+      "id": "posted_date",
+      "value": "<h3>Posted Date</h3><p>2023-10-15</p>"
+    },
+    {
+      "id": "measures_of_outcome",
+      "value": "<h3>Measures of Outcome</h3><p>Successful implementation of HR strategies, improved employee engagement scores, and effective leadership development programs.</p>"
+    },
+    {
+      "id": "work_environment",
+      "value": "<h3>Work Environment</h3><ul><li>Standard business hours with flexibility for remote work.</li><li>Minimal travel required.</li><li>Full-time</li><li>Hybrid - Vienna, Austria</li><li>Permanent</li><li>Primarily a desk-based role with occasional meetings.</li></ul>"
+    },
+    {
+      "id": "no._of_openings",
+      "value": "<h3>No. of Openings</h3><p>1</p>"
+    },
+    {
+      "id": "industry_type",
+      "value": "<h3>Industry Type</h3><p>AI/ML, Technology</p>"
+    },
+    {
+      "id": "department",
+      "value": "<h3>Department</h3><p>Human Resources</p>"
+    },
+    {
+      "id": "application_deadline",
+      "value": "<h3>Application Deadline</h3><p>2023-11-15</p>"
+    },
+    {
+      "id": "equal_employment_opportunity_(eeo)_statement",
+      "value": "<h3>Equal Employment Opportunity (EEO) Statement</h3><p>Humble Bridge is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.</p>"
+    },
+    {
+      "id": "diversity_and_inclusion_statement",
+      "value": "<h3>Diversity and Inclusion Statement</h3><p>We believe in the power of diversity and inclusion to drive innovation and success. Our team is committed to fostering a culture where everyone feels valued and respected.</p>"
+    },
+    {
+      "id": "interview_rounds",
+      "value": "<h3>Interview Rounds</h3><p>The interview process includes an initial phone screening, followed by a panel interview and a final interview with the HR Director.</p>"
+    },
+    {
+      "id": "level",
+      "value": "<h3>Level</h3><p>Mid-level</p>"
+    }
+  ],
+  "suggestions": [
+    {
+      "id": "requirements",
+      "type": "checkbox",
+      "label": "Requirement",
+      "values": [
+        "Experience in strategic workforce planning.",
+        "Proven track record in leadership coaching.",
+        "Ability to optimize employee experience.",
+        "Strong understanding of HR policies and procedures.",
+        "Experience in change management.",
+        "Ability to analyze HR metrics and data.",
+        "Experience in talent management and succession planning.",
+        "Knowledge of labor laws and regulations.",
+        "Experience in conflict resolution and mediation.",
+        "Ability to develop and implement HR strategies.",
+        "Experience in organizational development.",
+        "Strong project management skills.",
+        "Ability to work with diverse teams.",
+        "Experience in performance management.",
+        "Ability to manage employee relations.",
+        "Experience in compensation and benefits planning.",
+        "Ability to influence and negotiate with stakeholders.",
+        "Experience in diversity and inclusion initiatives.",
+        "Ability to manage HR budgets.",
+        "Experience in employee engagement strategies."
+      ]
+    },
+    {
+      "id": "roles_&_responsibilities",
+      "type": "checkbox",
+      "label": "Responsibilities",
+      "values": [
+        "Develop and implement strategic workforce plans.",
+        "Provide leadership coaching to senior management.",
+        "Optimize employee experience through various initiatives.",
+        "Analyze HR metrics to inform decision-making.",
+        "Manage change initiatives within the organization.",
+        "Develop talent management and succession plans.",
+        "Ensure compliance with labor laws and regulations.",
+        "Resolve conflicts and mediate disputes.",
+        "Implement HR strategies aligned with business goals.",
+        "Drive organizational development initiatives.",
+        "Manage HR projects from inception to completion.",
+        "Foster a diverse and inclusive workplace.",
+        "Oversee performance management processes.",
+        "Manage employee relations and address grievances.",
+        "Plan and administer compensation and benefits.",
+        "Influence and negotiate with key stakeholders.",
+        "Lead diversity and inclusion programs.",
+        "Manage HR budgets and resource allocation.",
+        "Enhance employee engagement and retention.",
+        "Collaborate with cross-functional teams."
+      ]
+    },
+    {
+      "id": "qualifications",
+      "type": "checkbox",
+      "label": "Qualifications",
+      "values": [
+        "Bachelor's degree in Human Resources or related field.",
+        "Master's degree in HR or Business Administration preferred.",
+        "Certification in HR (e.g., SHRM-CP, PHR) is a plus.",
+        "5+ years of experience in HR business partnering.",
+        "Experience in strategic workforce planning.",
+        "Proven leadership coaching skills.",
+        "Experience in employee experience optimization.",
+        "Strong analytical and problem-solving skills.",
+        "Excellent communication and interpersonal skills.",
+        "Experience in change management.",
+        "Knowledge of HR policies and procedures.",
+        "Experience in talent management.",
+        "Understanding of labor laws and regulations.",
+        "Experience in conflict resolution.",
+        "Project management certification is a plus.",
+        "Experience in organizational development.",
+        "Ability to work with diverse teams.",
+        "Experience in performance management.",
+        "Experience in compensation and benefits planning.",
+        "Experience in diversity and inclusion initiatives."
+      ]
+    },
+    {
+      "id": "skills",
+      "type": "checkbox",
+      "label": "Skills",
+      "values": [
+        "Strategic workforce planning.",
+        "Leadership coaching.",
+        "Employee experience optimization.",
+        "HR metrics analysis.",
+        "Change management.",
+        "Talent management.",
+        "Labor law compliance.",
+        "Conflict resolution.",
+        "HR strategy development.",
+        "Organizational development.",
+        "Project management.",
+        "Diversity and inclusion.",
+        "Performance management.",
+        "Employee relations management.",
+        "Compensation and benefits planning.",
+        "Stakeholder influence and negotiation.",
+        "HR budget management.",
+        "Employee engagement strategies.",
+        "Cross-functional collaboration.",
+        "Strong communication skills."
+      ]
+    }
+  ]
+}

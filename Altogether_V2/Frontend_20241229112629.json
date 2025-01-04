@@ -1,0 +1,215 @@
+{
+  "title_section": {
+    "title": "```{\"onetonline_occupation_title\": \"Human Resources Managers\", \"onet_job_code\": \"11-3121.00\"}```"
+  },
+  "jd_format": [
+    {
+      "id": "title",
+      "value": "<h3>Job Title</h3><p>HR Business Partner</p>"
+    },
+    {
+      "id": "job_code",
+      "value": "<h3>Job Code</h3><p>11-3121.00</p>"
+    },
+    {
+      "id": "overview",
+      "value": "<h3>Overview</h3><p>As an HR Business Partner at Humble Bridge, you will play a pivotal role in aligning HR strategies with business objectives. You will work closely with business directors to design and implement people solutions, provide expert counsel on employee relations, and drive HR initiatives in a fast-paced environment. Your role will involve strategic workforce planning, leadership coaching, and fostering a positive employee experience.</p>"
+    },
+    {
+      "id": "company_overview",
+      "value": "<h3>Company Overview</h3><p>Humble Bridge is a leading AI/ML company dedicated to driving digital transformation across various industries. We are committed to innovation, excellence, and creating a diverse and inclusive workplace where every employee can thrive.</p>"
+    },
+    {
+      "id": "roles_&_responsibilities",
+      "value": "<h3>Roles & Responsibilities</h3><ul><li>Design and implement professional and commercial people solutions in collaboration with Business Directors</li><li>Provide counsel on escalated Employee Relations cases and advise on best approaches for resolution</li><li>Collaborate with the wider HR community to ensure HR policies, initiatives, and procedures meet business needs</li><li>Gain in-depth knowledge of financial and commercial aspects of contracts to inform People Plan priorities</li><li>Foster good working relationships with Stakeholders to promote Engagement and enhance working practices</li><li>Actively monitor data on labour costs, employment relations, and sickness absence to identify trends and risks</li><li>Identify cost-saving opportunities based on data insights and collaborate with Business Directors on action plans</li><li>Work strategically with the Head of People to align HR strategies with overall business objectives</li><li>Manage and drive HR initiatives effectively in a fast-paced and complex environment</li><li>Handle Employment Tribunal cases and demonstrate strong experience in Employee Relations</li></ul><h4>Secondary Tasks</h4><ul><li>Support the development and implementation of training programs for employee development</li><li>Assist in conducting HR audits and ensuring regulatory compliance</li></ul>"
+    },
+    {
+      "id": "requirements",
+      "value": "<h3>Requirements</h3><ul><li><strong>Basic Qualification:</strong> Degree in Business Administration, Psychology, International Cultural and Business Studies, or related field</li><li><strong>Preferred Qualification:</strong> Certification such as SHRM-CP or PHR may be preferred</li><li><strong>Experience:</strong> 5+ years in HR management, preferably in a similar role</li><li><strong>License and Certificates:</strong> Certification such as SHRM-CP or PHR may be preferred</li><li><strong>Language:</strong> Fluent in English (business), conversational in German</li><li><strong>Work Authorization:</strong> General knowledge of HR practices and Austrian labor law</li></ul>"
+    },
+    {
+      "id": "skills",
+      "value": "<h3>Skills</h3><h4>Must-have Skills</h4><ul><li><strong>Technical Skills:</strong> HR strategy, workforce planning, succession planning, leadership coaching, labor relations, Employee experience, organizational design, change management</li><li><strong>Soft Skills:</strong> Strong interpersonal skills, excellent written and verbal communication skills, high level of emotional intelligence and empathy</li></ul><h4>Nice-to-have Skills</h4><ul><li><strong>Technical Skills (Preferred):</strong> Familiarity with Microsoft Office and/or Google Workspace</li><li><strong>Soft Skills (Preferred):</strong> Adaptability and flexibility in handling diverse HR challenges</li></ul>"
+    },
+    {
+      "id": "compensation_and_benefits",
+      "value": "<h3>Compensation and Benefits</h3><ul><li><strong>Compensation:</strong> Competitive salary based on experience and qualifications</li><li><strong>Supplement Pay:</strong> Performance-based bonuses</li><li><strong>Benefits:</strong> Comprehensive health insurance, paid time off, and retirement benefits</li><li><strong>We Offer:</strong> Opportunities for professional development and career growth in a dynamic and innovative environment</li></ul>"
+    },
+    {
+      "id": "entry",
+      "value": "<h3>Entry</h3><p>Immediate availability preferred</p>"
+    },
+    {
+      "id": "company_info",
+      "value": "<h3>Company Info</h3><p>Interested candidates are encouraged to apply by submitting their resume and cover letter through our careers page.</p><p><strong>Address:</strong> Humble Bridge, Vienna, Austria</p>"
+    },
+    {
+      "id": "application_instructions",
+      "value": "<h3>Application Instructions</h3><p>Please submit your application through our online portal, including a resume and a cover letter detailing your experience and qualifications.</p>"
+    },
+    {
+      "id": "reporting_line",
+      "value": "<h3>Reporting Line</h3><p>Reports to the Head of People</p>"
+    },
+    {
+      "id": "posted_date",
+      "value": "<h3>Posted Date</h3><p>October 15, 2023</p>"
+    },
+    {
+      "id": "measures_of_outcome",
+      "value": "<h3>Measures of Outcome</h3><p>Successful implementation of HR strategies aligned with business goals, improved employee engagement scores, and effective resolution of employee relations issues.</p>"
+    },
+    {
+      "id": "work_environment",
+      "value": "<h3>Work Environment</h3><ul><li><strong>Work Schedule:</strong> Standard business hours with flexibility for remote work</li><li><strong>Travel:</strong> Minimal travel required</li><li><strong>Job Type:</strong> Full-time</li><li><strong>Location:</strong> Hybrid - Vienna, Austria</li><li><strong>Employment Type:</strong> Permanent</li><li><strong>Physical Demands:</strong> Primarily desk-based with occasional meetings</li></ul>"
+    },
+    {
+      "id": "no._of_openings",
+      "value": "<h3>No. of Openings</h3><p>1</p>"
+    },
+    {
+      "id": "industry_type",
+      "value": "<h3>Industry Type</h3><p>AI/ML, Technology</p>"
+    },
+    {
+      "id": "department",
+      "value": "<h3>Department</h3><p>Human Resources</p>"
+    },
+    {
+      "id": "application_deadline",
+      "value": "<h3>Application Deadline</h3><p>November 30, 2023</p>"
+    },
+    {
+      "id": "equal_employment_opportunity_(eeo)_statement",
+      "value": "<h3>Equal Employment Opportunity (EEO) Statement</h3><p>Humble Bridge is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.</p>"
+    },
+    {
+      "id": "diversity_and_inclusion_statement",
+      "value": "<h3>Diversity and Inclusion Statement</h3><p>At Humble Bridge, we are committed to fostering a diverse and inclusive workplace where all employees feel valued and respected.</p>"
+    },
+    {
+      "id": "interview_rounds",
+      "value": "<h3>Interview Rounds</h3><p>The interview process includes an initial phone screening, followed by two rounds of interviews with HR and business leaders.</p>"
+    },
+    {
+      "id": "level",
+      "value": "<h3>Level</h3><p>Mid-level</p>"
+    }
+  ],
+  "suggestions": [
+    {
+      "id": "additional suggestions",
+      "type": "checkbox",
+      "label": "Additional Suggestions",
+      "values": []
+    },
+    {
+      "id": "requirements",
+      "type": "checkbox",
+      "label": "Requirement",
+      "values": [
+        "Experience in developing and implementing HR strategies aligned with business objectives.",
+        "Strong interpersonal skills to effectively communicate with employees at all levels.",
+        "Proficiency in HRIS systems and other HR-related software.",
+        "Knowledge of principles and procedures for personnel recruitment, selection, training, compensation and benefits, labor relations, and negotiation.",
+        "Understanding of laws, legal codes, court procedures, precedents, government regulations, executive orders, agency rules, and the democratic political process.",
+        "Ability to analyze data and trends to make informed decisions and recommendations.",
+        "Familiarity with organizational development and change management principles.",
+        "Understanding of diversity, equity, and inclusion practices in the workplace.",
+        "Experience in handling complex employee relations issues and conflict resolution.",
+        "Certification such as SHRM-CP or PHR may be preferred.",
+        "Knowledge of industry-specific regulations and compliance requirements.",
+        "Ability to develop and implement training programs for employee development.",
+        "Familiarity with budgeting and financial principles related to HR functions.",
+        "Experience in conducting HR audits and ensuring regulatory compliance.",
+        "Ability to work collaboratively with cross-functional teams and senior leadership.",
+        "Strong problem-solving skills and the ability to think strategically.",
+        "Knowledge of best practices in talent acquisition and retention.",
+        "Understanding of HR metrics and analytics to drive data-driven decision-making.",
+        "Job Zone Three: Requiring prior work-related skill, knowledge, or experience is essential for this role.",
+        "Education: A Bachelor's degree in Human Resources, Business Administration, or a related field is typically required."
+      ]
+    },
+    {
+      "id": "roles_&_responsibilities",
+      "type": "checkbox",
+      "label": "Responsibilities",
+      "values": [
+        "Design and implement professional and commercial people solutions in collaboration with Business Directors.",
+        "Provide counsel on escalated Employee Relations cases and advise on best approaches for resolution.",
+        "Collaborate with the wider HR community to ensure HR policies, initiatives, and procedures meet business needs.",
+        "Gain in-depth knowledge of financial and commercial aspects of contracts to inform People Plan priorities.",
+        "Foster good working relationships with Stakeholders to promote Engagement and enhance working practices.",
+        "Actively monitor data on labour costs, employment relations, and sickness absence to identify trends and risks.",
+        "Identify cost-saving opportunities based on data insights and collaborate with Business Directors on action plans.",
+        "Work strategically with the Head of People to align HR strategies with overall business objectives.",
+        "Manage and drive HR initiatives effectively in a fast-paced and complex environment.",
+        "Handle Employment Tribunal cases and demonstrate strong experience in Employee Relations.",
+        "Work independently and collaboratively with colleagues remotely in a standalone capacity.",
+        "Communicate confidently with Senior Stakeholders, CEO, and Chair of the Board, providing strategic advice.",
+        "Possess solid HR Generalist experience in reward management, employee relations, talent development, and succession planning.",
+        "Demonstrate expertise in restructuring, leadership development, and overall HR Business Partnering.",
+        "Develop and implement strategies for enhancing employee engagement and promoting better ways of working.",
+        "Stay updated on HR Policy & Procedures relevant to the Justice & Immigration sector.",
+        "Collaborate with Business Directors to align HR strategies with winning new bids and contracts.",
+        "Analyze data on employment relations to identify trends and risks for proactive decision-making.",
+        "Provide strategic counsel on HR matters to support the overall Business Strategy.",
+        "Continuously assess and improve HR policies, initiatives, and procedures to meet medium/long-term business needs."
+      ]
+    },
+    {
+      "id": "qualifications",
+      "type": "checkbox",
+      "label": "Qualifications",
+      "values": [
+        "Bachelor's degree in Human Resources, Business Administration, or a related field.",
+        "Certification such as SHRM-CP or PHR may be preferred.",
+        "Experience in developing and implementing HR strategies aligned with business objectives.",
+        "Knowledge of principles and procedures for personnel recruitment, selection, training, compensation and benefits, labor relations, and negotiation.",
+        "Understanding of laws, legal codes, court procedures, precedents, government regulations, executive orders, agency rules, and the democratic political process.",
+        "Ability to analyze data and trends to make informed decisions and recommendations.",
+        "Proficiency in HRIS systems and other HR-related software.",
+        "Strong interpersonal skills to effectively communicate with employees at all levels.",
+        "Knowledge of performance management processes and techniques.",
+        "Familiarity with organizational development and change management principles.",
+        "Understanding of diversity, equity, and inclusion practices in the workplace.",
+        "Experience in handling complex employee relations issues and conflict resolution.",
+        "Knowledge of industry-specific regulations and compliance requirements.",
+        "Ability to develop and implement training programs for employee development.",
+        "Familiarity with budgeting and financial principles related to HR functions.",
+        "Experience in conducting HR audits and ensuring regulatory compliance.",
+        "Ability to work collaboratively with cross-functional teams and senior leadership.",
+        "Strong problem-solving skills and the ability to think strategically.",
+        "Knowledge of best practices in talent acquisition and retention.",
+        "Understanding of HR metrics and analytics to drive data-driven decision-making."
+      ]
+    },
+    {
+      "id": "skills",
+      "type": "checkbox",
+      "label": "Skills",
+      "values": [
+        "Develop and implement professional and commercial people solutions in collaboration with Business Directors.",
+        "Provide expert counsel on escalated Employee Relations cases and recommend effective approaches.",
+        "Collaborate with the broader HR community to ensure HR policies and procedures align with the business's medium to long-term needs.",
+        "Acquire a deep understanding of financial and commercial aspects of contracts to guide People Plan priorities.",
+        "Cultivate strong working relationships with Stakeholders to enhance Engagement and promote improved work practices.",
+        "Monitor labor costs, employment relations, and sickness absence data to identify trends, risks, and cost-saving opportunities.",
+        "Formulate action plans with Business Directors based on data insights and work strategically with the Head of People.",
+        "Demonstrate experience working on-site within the Justice & Immigration sector.",
+        "Drive HR initiatives effectively in a fast-paced, complex environment.",
+        "Manage Trade Union relationships and navigate Employment Tribunal cases proficiently.",
+        "Operate independently in a standalone capacity while collaborating with colleagues remotely.",
+        "Possess a robust understanding of HR Policy & Procedures specific to Justice & Immigration.",
+        "Communicate confidently with Senior Stakeholders, CEO, and Board Chair, providing strategic advice and counsel.",
+        "Exhibit solid HR Generalist experience encompassing reward, employee relations, talent management, succession planning, restructuring, and leadership development.",
+        "Demonstrate proficiency in conflict resolution and negotiation skills.",
+        "Showcase strong analytical abilities to interpret data and make informed decisions.",
+        "Possess excellent written and verbal communication skills.",
+        "Display a high level of emotional intelligence and empathy in dealing with employee issues.",
+        "Show adaptability and flexibility in handling diverse HR challenges.",
+        "Exhibit strong organizational and time management skills to prioritize tasks effectively."
+      ]
+    }
+  ]
+}

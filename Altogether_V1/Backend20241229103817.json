@@ -1,0 +1,777 @@
+[
+  {
+    "Category": "Title",
+    "Category_alternatives": [
+      "Title",
+      " Role",
+      " Job Title"
+    ],
+    "SubCategory": [
+      {
+        "name": "Job Title",
+        "SubCategory_alternatives": [],
+        "Fields": [
+          {
+            "Field": "Job Title",
+            "Field_alternatives": [
+              "Title",
+              " Role"
+            ],
+            "Field_Description": "Title of the job",
+            "Remarks": "HR Business Partner"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "Job Code",
+    "Category_alternatives": [
+      "Position Code",
+      " Job ID"
+    ],
+    "SubCategory": [
+      {
+        "name": "Job Code",
+        "SubCategory_alternatives": [
+          "Position Code",
+          " Job ID"
+        ],
+        "Fields": [
+          {
+            "Field": "Job Code",
+            "Field_alternatives": [
+              "Position Code",
+              " Job ID"
+            ],
+            "Field_Description": "A unique identifier assigned to the job for internal tracking.",
+            "Remarks": "HRBP-001"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "Overview",
+    "Category_alternatives": [
+      "Description",
+      " Job Description",
+      " Summary",
+      " objective",
+      " Role Summary",
+      " About the job",
+      " Role Description",
+      " Role Proficiency",
+      " The Role"
+    ],
+    "SubCategory": [
+      {
+        "name": "Description",
+        "SubCategory_alternatives": [
+          "Overview",
+          " Job Description",
+          " Summary",
+          " objective",
+          " Role Summary",
+          " About the job",
+          " Role Description",
+          " Role Proficiency",
+          " The Role"
+        ],
+        "Fields": [
+          {
+            "Field": "Description",
+            "Field_alternatives": [
+              "Overview",
+              " Job Description",
+              " Summary",
+              " objective",
+              " Role Summary",
+              " About the job",
+              " Role Description",
+              " Role Proficiency",
+              " The Role"
+            ],
+            "Field_Description": "Description, Job Description, Summary, objective, Role Summary, About the job, Role Description, Role Proficiency, The Role",
+            "Remarks": "As an HR Business Partner at Humble Bridge, you will play a pivotal role in aligning our HR strategy with business objectives. You will be responsible for strategic workforce planning, leadership coaching, and optimizing employee experience. Your expertise in HR management and knowledge of Austrian labor law will be crucial in driving organizational success."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "Company Overview",
+    "Category_alternatives": [
+      "Who we are",
+      "  About [Company Name]",
+      "  The Company",
+      " About Company"
+    ],
+    "SubCategory": [
+      {
+        "name": "Company Overview",
+        "SubCategory_alternatives": [
+          "Who we are",
+          "  About [Company Name]",
+          "  The Company",
+          " About Company"
+        ],
+        "Fields": [
+          {
+            "Field": "Company Overview",
+            "Field_alternatives": [
+              "Who we are",
+              "  About [Company Name]",
+              "  The Company",
+              " About Company"
+            ],
+            "Field_Description": "Information about the company\\u2019s mission, values, and history.",
+            "Remarks": "Humble Bridge is a leading AI/ML company dedicated to driving digital transformation across various industries. We pride ourselves on our innovative solutions and commitment to excellence."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "Roles & Responsibilities",
+    "Category_alternatives": [
+      "Tasks",
+      "  Outcomes",
+      " Your Tasks",
+      "  Your area of responsibility",
+      "  Your tasks in our team",
+      "  Your Responsibilities",
+      "  Your Mission",
+      " What you will be doing",
+      " Responsibilities and Duties",
+      " Main Duties",
+      " Key Responsibilities",
+      " Work Activities",
+      " Essential Duties",
+      " What to expect"
+    ],
+    "SubCategory": [
+      {
+        "name": "Roles & Responsibilities",
+        "SubCategory_alternatives": [
+          "Tasks",
+          "  Outcomes",
+          " Your Tasks",
+          "  Your area of responsibility",
+          "  Your tasks in our team",
+          "  Your Responsibilities",
+          "  Your Mission",
+          " What you will be doing",
+          " Responsibilities and Duties",
+          " Main Duties",
+          " Key Responsibilities",
+          " Work Activities",
+          " Essential Duties",
+          " What to expect"
+        ],
+        "Fields": [
+          {
+            "Field": "Responsibilities",
+            "Field_alternatives": [
+              "Tasks",
+              "  Outcomes",
+              " Your Tasks",
+              "  Your area of responsibility",
+              "  Your tasks in our team",
+              "  Your Responsibilities",
+              "  Your Mission",
+              " What you will be doing",
+              " Responsibilities and Duties",
+              " Main Duties",
+              " Key Responsibilities",
+              " Work Activities",
+              " Essential Duties",
+              " What to expect"
+            ],
+            "Field_Description": "A detailed list of the duties and tasks required for the job.",
+            "Remarks": "1. Develop and implement HR strategies aligned with the overall business strategy. 2. Manage workforce planning and succession planning. 3. Provide leadership coaching and support. 4. Enhance employee experience and engagement. 5. Ensure compliance with Austrian labor laws. 6. Facilitate organizational design and change management initiatives."
+          },
+          {
+            "Field": "Secondary Tasks",
+            "Field_alternatives": [],
+            "Field_Description": "Duties or responsibilities that are not the primary focus of the role but support the overall job objectives.",
+            "Remarks": "1. Assist in the development of HR policies and procedures. 2. Support recruitment and onboarding processes."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "Requirements",
+    "Category_alternatives": [
+      "Experience and Training",
+      " Requirements",
+      " Your competency profile",
+      "  Your Profile",
+      "  Qualifications",
+      " What you bring (experience and qualifications):",
+      " What you need to succeed",
+      " The requirements",
+      " Your Talents",
+      " we expect"
+    ],
+    "SubCategory": [
+      {
+        "name": "Qualification",
+        "SubCategory_alternatives": [
+          "Educational Qualification"
+        ],
+        "Fields": [
+          {
+            "Field": "Basic Qualification",
+            "Field_alternatives": [],
+            "Field_Description": "The minimum qualifications or criteria required to apply for the role.",
+            "Remarks": "Degree in Business Administration, Psychology, International Cultural and Business Studies, or related field."
+          },
+          {
+            "Field": "Preferred Qualification",
+            "Field_alternatives": [],
+            "Field_Description": "Additional qualifications or skills that are desirable but not mandatory.",
+            "Remarks": "Advanced degree in HR or related field is a plus."
+          }
+        ]
+      },
+      {
+        "name": "Experience",
+        "SubCategory_alternatives": [
+          "Experience & Training"
+        ],
+        "Fields": [
+          {
+            "Field": "Experience",
+            "Field_alternatives": [],
+            "Field_Description": "The value should be the number of years of experience. If the experience is not provided or cannot be determined, return null.",
+            "Remarks": "5"
+          }
+        ]
+      },
+      {
+        "name": "License and Certificates",
+        "SubCategory_alternatives": [],
+        "Fields": [
+          {
+            "Field": "License and Certificates",
+            "Field_alternatives": [],
+            "Field_Description": "Any required certifications or licenses for the job.",
+            "Remarks": "HR certification such as SHRM-CP or PHR is preferred."
+          }
+        ]
+      },
+      {
+        "name": "Language",
+        "SubCategory_alternatives": [],
+        "Fields": [
+          {
+            "Field": "Language",
+            "Field_alternatives": [],
+            "Field_Description": "Languages that the candidate must know, along with proficiency levels.",
+            "Remarks": "Fluent in English (business), conversational in German."
+          }
+        ]
+      },
+      {
+        "name": "Work Authorization",
+        "SubCategory_alternatives": [
+          "Visa Requirements"
+        ],
+        "Fields": [
+          {
+            "Field": "Work Authorization",
+            "Field_alternatives": [
+              "Visa Requirements"
+            ],
+            "Field_Description": "Legal requirements for candidates to work in a specific country or region.",
+            "Remarks": "Must have legal authorization to work in Austria."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "Skills",
+    "Category_alternatives": [
+      "Requirements"
+    ],
+    "SubCategory": [
+      {
+        "name": "Must-have Skills",
+        "SubCategory_alternatives": [
+          "Your Skillset",
+          " Must-have-skills",
+          " Relevant Skills"
+        ],
+        "Fields": [
+          {
+            "Field": "Technical Skills",
+            "Field_alternatives": [],
+            "Field_Description": "Specialized skills or technical expertise necessary for the role.",
+            "Remarks": "General knowledge of HR practices and Austrian labor law. Familiarity with Microsoft Office and/or Google Workspace."
+          },
+          {
+            "Field": "Soft Skills",
+            "Field_alternatives": [],
+            "Field_Description": "Interpersonal and communication abilities important for success in the role.",
+            "Remarks": "Strong leadership, communication, and interpersonal skills."
+          }
+        ]
+      },
+      {
+        "name": "Nice-to-have Skills",
+        "SubCategory_alternatives": [
+          "Bonus Skills",
+          " Preferred Requirements",
+          " Good-to-have-skills"
+        ],
+        "Fields": [
+          {
+            "Field": "Technical Skills (Preferred)",
+            "Field_alternatives": [],
+            "Field_Description": "Additional technical expertise or knowledge that enhances a candidate's ability to excel in the role but is not mandatory.",
+            "Remarks": "Experience with HRIS systems."
+          },
+          {
+            "Field": "Soft Skills (Preferred)",
+            "Field_alternatives": [],
+            "Field_Description": "Additional interpersonal and communication abilities that enhance teamwork, adaptability, and leadership",
+            "Remarks": "Ability to manage multiple priorities and work in a fast-paced environment."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "Compensation and benefits",
+    "Category_alternatives": [
+      "Salary & Benefits",
+      " Our Offer",
+      "what we offer"
+    ],
+    "SubCategory": [
+      {
+        "name": "Compensation & Benefits",
+        "SubCategory_alternatives": [
+          "Salary & Benefits",
+          " Our Offer",
+          "what we offer"
+        ],
+        "Fields": [
+          {
+            "Field": "Compensation",
+            "Field_alternatives": [
+              "Salary",
+              " Our Range"
+            ],
+            "Field_Description": "Salary or wage details for the position.",
+            "Remarks": "Competitive salary based on experience."
+          },
+          {
+            "Field": "Supplement Pay",
+            "Field_alternatives": [
+              "Bonus Pay",
+              " Commission Pay"
+            ],
+            "Field_Description": "Additional pay types, such as bonuses or commissions.",
+            "Remarks": "Performance-based bonuses."
+          },
+          {
+            "Field": "Benefits",
+            "Field_alternatives": [
+              "Paid time off",
+              " Health Insurance"
+            ],
+            "Field_Description": "Perks and advantages offered by the employer, such as health insurance or paid time off.",
+            "Remarks": "Comprehensive health insurance, paid time off, and retirement benefits."
+          },
+          {
+            "Field": "We Offer",
+            "Field_alternatives": [
+              "Our Offer / We offer you / Our offer to you / What we Offer / The special thing about this position"
+            ],
+            "Field_Description": "A summary of what the company provides to employees beyond compensation.",
+            "Remarks": "Opportunities for professional growth and development in a dynamic and innovative environment."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "Entry",
+    "Category_alternatives": [
+      "Date of entry",
+      " Availability"
+    ],
+    "SubCategory": [
+      {
+        "name": "Entry",
+        "SubCategory_alternatives": [
+          "Date of entry",
+          " Availability"
+        ],
+        "Fields": [
+          {
+            "Field": "Entry",
+            "Field_alternatives": [
+              "Date of entry",
+              " Availability"
+            ],
+            "Field_Description": "Details about the job\\u2019s start date",
+            "Remarks": "Immediate availability preferred."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "Company Info",
+    "Category_alternatives": [],
+    "SubCategory": [
+      {
+        "name": "Company Info",
+        "SubCategory_alternatives": [],
+        "Fields": [
+          {
+            "Field": "Call-To-Action",
+            "Field_alternatives": [
+              "Contact",
+              " Contact Person"
+            ],
+            "Field_Description": "Instructions encouraging candidates to apply or take the next step.",
+            "Remarks": "Interested candidates are encouraged to apply by sending their resume and cover letter to careers@humblebridge.com."
+          },
+          {
+            "Field": "Address",
+            "Field_alternatives": [],
+            "Field_Description": "The physical location or address associated with the company.",
+            "Remarks": "Humble Bridge, 123 Innovation Drive, Vienna, Austria."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "Application Instructions",
+    "Category_alternatives": [
+      "How to Apply"
+    ],
+    "SubCategory": [
+      {
+        "name": "Application Instructions",
+        "SubCategory_alternatives": [
+          "How to Apply"
+        ],
+        "Fields": [
+          {
+            "Field": "Application Instructions",
+            "Field_alternatives": [
+              "How to Apply"
+            ],
+            "Field_Description": "Steps candidates must follow to apply for the job.",
+            "Remarks": "Submit your application through our careers page or email your resume and cover letter to careers@humblebridge.com."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "Reporting Line",
+    "Category_alternatives": [
+      "Supervisor"
+    ],
+    "SubCategory": [
+      {
+        "name": "Reporting Line",
+        "SubCategory_alternatives": [
+          "Supervisor"
+        ],
+        "Fields": [
+          {
+            "Field": "Reporting Line",
+            "Field_alternatives": [
+              "Supervisor"
+            ],
+            "Field_Description": "The hierarchy or manager to whom the candidate will report.",
+            "Remarks": "Reports to the Director of Human Resources."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "Posted Date",
+    "Category_alternatives": [
+      "Published"
+    ],
+    "SubCategory": [
+      {
+        "name": "Posted Date",
+        "SubCategory_alternatives": [
+          "Published"
+        ],
+        "Fields": [
+          {
+            "Field": "Posted Date",
+            "Field_alternatives": [
+              "Published"
+            ],
+            "Field_Description": "The hierarchy or manager to whom the candidate will report.",
+            "Remarks": "2023-10-15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "Measures of Outcome",
+    "Category_alternatives": [
+      "Performance Metrics / KPIs"
+    ],
+    "SubCategory": [
+      {
+        "name": "Measures of Outcome",
+        "SubCategory_alternatives": [
+          "Performance Metrics / KPIs"
+        ],
+        "Fields": [
+          {
+            "Field": "Measures of Outcome",
+            "Field_alternatives": [
+              "Performance Metrics / KPIs"
+            ],
+            "Field_Description": "Key performance indicators or expected results for the role.",
+            "Remarks": "Successful implementation of HR strategies, improved employee engagement scores, and effective leadership development programs."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "Work Environment",
+    "Category_alternatives": [],
+    "SubCategory": [
+      {
+        "name": "Work Environment",
+        "SubCategory_alternatives": [],
+        "Fields": [
+          {
+            "Field": "Work Schedule",
+            "Field_alternatives": [
+              "Working hours",
+              " Shift Requirements",
+              " Shift & Schedule",
+              " Job Schedule"
+            ],
+            "Field_Description": "Details about the working hours and days required.",
+            "Remarks": "Standard business hours with flexibility for remote work."
+          },
+          {
+            "Field": "Travel",
+            "Field_alternatives": [],
+            "Field_Description": "Information on whether travel is required for the job and its extent.",
+            "Remarks": "Minimal travel required."
+          },
+          {
+            "Field": "Job Type",
+            "Field_alternatives": [
+              "Type of Job",
+              " Employment Type",
+              " Work Type"
+            ],
+            "Field_Description": "The nature of the job (e.g., full-time, part-time, contract).",
+            "Remarks": "Full-time"
+          },
+          {
+            "Field": "Location",
+            "Field_alternatives": [
+              "Place of Work",
+              " Work location",
+              " Work Type"
+            ],
+            "Field_Description": "The geographic place where the job is based. It  can be Onsite / Hybrid / Remote",
+            "Remarks": "Hybrid - Vienna, Austria"
+          },
+          {
+            "Field": "Employment Type",
+            "Field_alternatives": [
+              "Contract Type"
+            ],
+            "Field_Description": "Internship / Contract / Temperory / Freelance",
+            "Remarks": "Permanent"
+          },
+          {
+            "Field": "Physical Demands",
+            "Field_alternatives": [],
+            "Field_Description": "Physical demands if applicable, such as lifting or standing for long periods.",
+            "Remarks": "Primarily a desk-based role with occasional meetings."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "No. of Openings",
+    "Category_alternatives": [
+      "No. of Positions"
+    ],
+    "SubCategory": [
+      {
+        "name": "No. of Openings",
+        "SubCategory_alternatives": [
+          "No. of Positions"
+        ],
+        "Fields": [
+          {
+            "Field": "No. of Openings",
+            "Field_alternatives": [
+              "No. of Positions"
+            ],
+            "Field_Description": "The number of available positions for this job.",
+            "Remarks": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "Industry Type",
+    "Category_alternatives": [],
+    "SubCategory": [
+      {
+        "name": "Industry Type",
+        "SubCategory_alternatives": [],
+        "Fields": [
+          {
+            "Field": "Industry Type",
+            "Field_alternatives": [],
+            "Field_Description": "The sector or industry related to the job like Healthcare, IT/ITES",
+            "Remarks": "AI/ML, Technology"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "Department",
+    "Category_alternatives": [],
+    "SubCategory": [
+      {
+        "name": "Department",
+        "SubCategory_alternatives": [],
+        "Fields": [
+          {
+            "Field": "Department",
+            "Field_alternatives": [],
+            "Field_Description": "The organizational unit or team for the role like Robotics, Engineering-Software&QA etc.",
+            "Remarks": "Human Resources"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "Application Deadline",
+    "Category_alternatives": [
+      "Closing Date"
+    ],
+    "SubCategory": [
+      {
+        "name": "Application Deadline",
+        "SubCategory_alternatives": [
+          "Closing Date"
+        ],
+        "Fields": [
+          {
+            "Field": "Application Deadline",
+            "Field_alternatives": [
+              "Closing Date"
+            ],
+            "Field_Description": "The final date for candidates to submit applications.",
+            "Remarks": "2023-11-15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "Equal Employment Opportunity (EEO) Statement",
+    "Category_alternatives": [],
+    "SubCategory": [
+      {
+        "name": "Equal Employment Opportunity (EEO) Statement",
+        "SubCategory_alternatives": [],
+        "Fields": [
+          {
+            "Field": "Equal Employment Opportunity (EEO) Statement",
+            "Field_alternatives": [],
+            "Field_Description": "Statement of the company\\u2019s EEO policy (Only if applicable).",
+            "Remarks": "Humble Bridge is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "Diversity and Inclusion Statement",
+    "Category_alternatives": [],
+    "SubCategory": [
+      {
+        "name": "Diversity and Inclusion Statement",
+        "SubCategory_alternatives": [],
+        "Fields": [
+          {
+            "Field": "Diversity and Inclusion Statement",
+            "Field_alternatives": [],
+            "Field_Description": "Information about the company\\u2019s commitment to diversity and inclusion (Only if applicable).",
+            "Remarks": "We believe in the power of diversity and inclusion to drive innovation and success. Our team is committed to fostering a culture where everyone feels valued and respected."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "Interview Rounds",
+    "Category_alternatives": [
+      "Interview Process"
+    ],
+    "SubCategory": [
+      {
+        "name": "Interview Rounds",
+        "SubCategory_alternatives": [
+          "Interview Process"
+        ],
+        "Fields": [
+          {
+            "Field": "Interview Rounds",
+            "Field_alternatives": [
+              "Interview Process"
+            ],
+            "Field_Description": "Information about the stages and structure of the interview process.",
+            "Remarks": "The interview process includes an initial phone screening, followed by a panel interview and a final interview with the HR Director."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "Level",
+    "Category_alternatives": [],
+    "SubCategory": [
+      {
+        "name": "Level",
+        "SubCategory_alternatives": [],
+        "Fields": [
+          {
+            "Field": "Level",
+            "Field_alternatives": [],
+            "Field_Description": "Specifies the job\\u2019s seniority or expertise required, such as entry-level, mid-level, or senior-level.",
+            "Remarks": "Mid-level"
+          }
+        ]
+      }
+    ]
+  }
+]
