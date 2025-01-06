@@ -1,0 +1,221 @@
+{
+  "title_section": {
+    "title": "```{\"onetonline_occupation_title\": \"Human Resources Managers\", \"onet_job_code\": \"11-3121.00\"}```"
+  },
+  "jd_format": [
+    {
+      "id": "title",
+      "value": "<h3>Job Title</h3><p>HR Business Partner</p>"
+    },
+    {
+      "id": "job_code",
+      "value": "<h3>Job Code</h3><p>11-3121.00</p>"
+    },
+    {
+      "id": "overview",
+      "value": "<h3>Overview</h3><p>As an HR Business Partner at Humble Bridge, you will play a pivotal role in aligning our HR strategies with business objectives. You will work closely with business directors to develop and implement people solutions, provide expert counsel on employee relations, and drive HR initiatives that enhance organizational effectiveness.</p>"
+    },
+    {
+      "id": "company_overview",
+      "value": "<h3>Company Overview</h3><p>Humble Bridge is a leading AI/ML company dedicated to driving digital transformation across various industries. We are committed to innovation, excellence, and creating value for our clients through cutting-edge technology solutions.</p>"
+    },
+    {
+      "id": "roles_&_responsibilities",
+      "value": "<h3>Roles & Responsibilities</h3><ul><li>Develop and implement HR strategies aligned with business goals.</li><li>Provide expert counsel on employee relations and labor law compliance.</li><li>Collaborate with business directors to enhance workforce planning and succession planning.</li><li>Drive leadership coaching and organizational design initiatives.</li><li>Monitor labor costs and employment relations to identify trends and risks.</li><li>Foster strong relationships with stakeholders to promote engagement and improve work practices.</li><li>Support change management processes.</li><li>Assist in the development of employee experience programs.</li></ul>"
+    },
+    {
+      "id": "requirements",
+      "value": "<h3>Requirements</h3><ul><li>Degree in Business Administration, Psychology, International Cultural and Business Studies, or related field.</li><li>Master's degree in Human Resources or related field preferred.</li><li>5 years of experience.</li><li>Certification in Human Resources Management (e.g., SHRM-CP, PHR) preferred.</li><li>Fluent in English (business), conversational in German.</li><li>Must be authorized to work in Austria.</li></ul>"
+    },
+    {
+      "id": "skills",
+      "value": "<h3>Skills</h3><h4>Must-have Skills</h4><ul><li>HR strategy development</li><li>Workforce planning</li><li>Succession planning</li><li>Leadership coaching</li><li>Labor relations</li><li>Employee experience</li><li>Organizational design</li><li>Change management</li><li>General knowledge of HR practices and Austrian labor law</li><li>Familiarity with Microsoft Office and/or Google Workspace</li><li>Strong communication skills</li><li>Ability to work independently and collaboratively</li><li>Conflict resolution and negotiation skills</li><li>Strong organizational skills</li><li>Ability to adapt to changing priorities</li></ul><h4>Nice-to-have Skills</h4><ul><li>Experience with HR software systems</li><li>Data analysis and reporting skills</li><li>Strategic thinking</li><li>Leadership skills</li></ul>"
+    },
+    {
+      "id": "compensation_and_benefits",
+      "value": "<h3>Compensation and Benefits</h3><ul><li>Competitive salary based on experience and qualifications.</li><li>Performance-based bonuses.</li><li>Comprehensive health insurance, paid time off, and retirement benefits.</li><li>Opportunities for professional growth and development in a dynamic and innovative environment.</li></ul>"
+    },
+    {
+      "id": "entry",
+      "value": "<h3>Entry</h3><p>Immediate availability preferred.</p>"
+    },
+    {
+      "id": "company_info",
+      "value": "<h3>Company Info</h3><p>Interested candidates should apply by sending their resume and cover letter to careers@humblebridge.com.</p><p>Address: Humble Bridge, 123 Innovation Drive, Vienna, Austria.</p>"
+    },
+    {
+      "id": "application_instructions",
+      "value": "<h3>Application Instructions</h3><p>Submit your application through our online portal or email your resume and cover letter to careers@humblebridge.com.</p>"
+    },
+    {
+      "id": "reporting_line",
+      "value": "<h3>Reporting Line</h3><p>Reports to the Head of People.</p>"
+    },
+    {
+      "id": "posted_date",
+      "value": "<h3>Posted Date</h3><p>October 15, 2023</p>"
+    },
+    {
+      "id": "measures_of_outcome",
+      "value": "<h3>Measures of Outcome</h3><p>Successful implementation of HR strategies, improved employee engagement scores, and effective resolution of employee relations cases.</p>"
+    },
+    {
+      "id": "work_environment",
+      "value": "<h3>Work Environment</h3><ul><li>Standard business hours with flexibility for remote work.</li><li>Occasional travel may be required for business meetings.</li><li>Full-time</li><li>Hybrid - Vienna, Austria</li><li>Permanent</li><li>Minimal physical demands typical of an office environment.</li></ul>"
+    },
+    {
+      "id": "no._of_openings",
+      "value": "<h3>No. of Openings</h3><p>1</p>"
+    },
+    {
+      "id": "industry_type",
+      "value": "<h3>Industry Type</h3><p>AI/ML Technology</p>"
+    },
+    {
+      "id": "department",
+      "value": "<h3>Department</h3><p>Human Resources</p>"
+    },
+    {
+      "id": "application_deadline",
+      "value": "<h3>Application Deadline</h3><p>November 15, 2023</p>"
+    },
+    {
+      "id": "equal_employment_opportunity_(eeo)_statement",
+      "value": "<h3>Equal Employment Opportunity (EEO) Statement</h3><p>Humble Bridge is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.</p>"
+    },
+    {
+      "id": "diversity_and_inclusion_statement",
+      "value": "<h3>Diversity and Inclusion Statement</h3><p>We believe in the power of diversity and inclusion to drive innovation and success. Our commitment to these values is reflected in our workplace culture and practices.</p>"
+    },
+    {
+      "id": "interview_rounds",
+      "value": "<h3>Interview Rounds</h3><p>The interview process includes an initial phone screening, followed by two rounds of interviews with HR and business directors.</p>"
+    },
+    {
+      "id": "level",
+      "value": "<h3>Level</h3><p>Mid-level</p>"
+    }
+  ],
+  "suggestions": [
+    {
+      "id": "additional suggestions",
+      "type": "checkbox",
+      "label": "Additional Suggestions",
+      "values": []
+    },
+    {
+      "id": "requirements",
+      "type": "checkbox",
+      "label": "Requirement",
+      "values": [
+        "Extensive experience in HR management, with several years in a related occupation.",
+        "Bachelor's degree in Human Resources, Business Administration, or a related field; a master's degree is preferred.",
+        "Strong knowledge of HR policies, procedures, and best practices.",
+        "Experience in developing and implementing HR strategies aligned with business goals.",
+        "Understanding of employment laws and regulations.",
+        "Ability to analyze HR data and trends to inform decision-making.",
+        "Familiarity with HR software systems for managing processes and data.",
+        "Experience in employee relations, conflict resolution, and performance management.",
+        "Ability to design and implement employee development programs.",
+        "Certification in Human Resources Management (e.g., SHRM-CP, PHR) is preferred.",
+        "Familiarity with industry-specific compliance requirements.",
+        "Strong communication skills for interacting with all organizational levels.",
+        "Ability to maintain confidentiality and handle sensitive information.",
+        "Experience in managing HR projects from conception to completion.",
+        "Knowledge of talent acquisition, retention, and development best practices.",
+        "Understanding of diversity, equity, and inclusion principles.",
+        "Ability to adapt to changing HR trends and technologies.",
+        "Experience in budgeting and managing HR-related expenses.",
+        "Ability to work independently and collaboratively in a remote setting.",
+        "Proficiency in using HR software and tools for data analysis and reporting."
+      ]
+    },
+    {
+      "id": "roles_&_responsibilities",
+      "type": "checkbox",
+      "label": "Responsibilities",
+      "values": [
+        "Design and implement people solutions with Business Directors.",
+        "Provide counsel on escalated Employee Relations cases.",
+        "Collaborate with HR community to align policies with business needs.",
+        "Gain knowledge of financial aspects of contracts for People Plan priorities.",
+        "Foster relationships with Stakeholders to enhance work practices.",
+        "Monitor labor costs and employment relations data for trends.",
+        "Identify cost-saving opportunities and collaborate on action plans.",
+        "Work strategically with the Head of People on HR initiatives.",
+        "Manage HR initiatives in a fast-paced, complex environment.",
+        "Handle Employment Tribunal cases and Employee Relations.",
+        "Work independently while collaborating remotely.",
+        "Understand HR Policy & Procedures for Justice & Immigration.",
+        "Communicate with Senior Stakeholders, CEO, and Board Chair.",
+        "Utilize HR Generalist experience in various HR functions.",
+        "Develop strategies for new bids, contracts, and revenue generation.",
+        "Partner with Business Directors on Business Strategy.",
+        "Stay informed about industry trends and best practices.",
+        "Analyze labor costs and employment relations data.",
+        "Drive engagement initiatives for a positive work culture.",
+        "Ensure HR policies meet medium to long-term business needs."
+      ]
+    },
+    {
+      "id": "qualifications",
+      "type": "checkbox",
+      "label": "Qualifications",
+      "values": [
+        "Extensive experience in HR management and related fields.",
+        "Bachelor's degree in HR, Business Administration, or related field.",
+        "Master's degree preferred for advanced positions.",
+        "Knowledge of personnel recruitment, selection, and training.",
+        "Understanding of compensation, benefits, and labor relations.",
+        "Experience in HR strategy development and implementation.",
+        "Ability to analyze data for HR strategies and decision-making.",
+        "Knowledge of HR metrics and data interpretation.",
+        "Familiarity with HR software systems.",
+        "Strong understanding of employee relations and conflict resolution.",
+        "Experience in employee development and succession planning.",
+        "Ability to collaborate with senior management and stakeholders.",
+        "Certification in HR Management (e.g., SHRM-CP, PHR) preferred.",
+        "Familiarity with industry-specific regulations.",
+        "Strong communication skills for organizational interaction.",
+        "Ability to maintain confidentiality in HR matters.",
+        "Experience in managing HR projects and initiatives.",
+        "Knowledge of talent acquisition and retention best practices.",
+        "Understanding of diversity, equity, and inclusion principles.",
+        "Experience in budgeting and managing HR expenses."
+      ]
+    },
+    {
+      "id": "skills",
+      "type": "checkbox",
+      "label": "Skills",
+      "values": [
+        "Proficiency in HR management and strategy development.",
+        "Strong communication and interpersonal skills.",
+        "Ability to analyze and interpret HR data and metrics.",
+        "Familiarity with HR software and tools.",
+        "Expertise in employee relations and conflict resolution.",
+        "Experience in performance management and development.",
+        "Ability to design and implement HR initiatives.",
+        "Knowledge of employment laws and regulations.",
+        "Strong organizational and project management skills.",
+        "Ability to work independently and collaboratively.",
+        "Adaptability to changing HR trends and technologies.",
+        "Experience in budgeting and expense management.",
+        "Ability to maintain confidentiality and handle sensitive information.",
+        "Strong negotiation and conflict resolution skills.",
+        "Ability to build rapport and trust with stakeholders.",
+        "Proficiency in using HR software for data analysis.",
+        "Ability to adapt to changing priorities and work under pressure.",
+        "Excellent interpersonal skills for diverse stakeholder interaction.",
+        "Strong knowledge of HR Policy & Procedures.",
+        "Ability to provide strategic advice and counsel to senior stakeholders."
+      ]
+    }
+  ],
+  "normalized_content": "# HR Business Partner - Hybrid, Vienna, Austria\n\n## Summary\nAs an HR Business Partner at Humble Bridge, you will play a pivotal role in aligning our HR strategies with business objectives. You will work closely with business directors to develop and implement people solutions, provide expert counsel on employee relations, and drive HR initiatives that enhance organizational effectiveness.\n\n## Company Overview\nHumble Bridge is a leading AI/ML company dedicated to driving digital transformation across various industries. We are committed to innovation, excellence, and creating value for our clients through cutting-edge technology solutions. Our mission is to foster a culture of inclusivity and diversity, which we believe is key to our success and innovation.\n\n## Responsibilities\n- Develop and implement HR strategies aligned with business goals.\n- Provide expert counsel on employee relations and labor law compliance.\n- Collaborate with business directors to enhance workforce planning and succession planning.\n- Drive leadership coaching and organizational design initiatives.\n- Monitor labor costs and employment relations to identify trends and risks.\n- Foster strong relationships with stakeholders to promote engagement and improve work practices.\n- Support change management processes and assist in the development of employee experience programs.\n\n## Qualifications\n\n### Required\n- Degree in Business Administration, Psychology, International Cultural and Business Studies, or related field.\n- 5 years of experience in a similar role.\n- Fluent in English (business), conversational in German.\n- Must be authorized to work in Austria.\n\n### Preferred\n- Master's degree in Human Resources or related field.\n- Certification in Human Resources Management (e.g., SHRM-CP, PHR).\n- Experience with HR software systems and data analysis skills.\n\n## Skills\n\n### Must-have Skills\n- HR strategy development, workforce planning, and succession planning.\n- Leadership coaching, labor relations, and employee experience.\n- Organizational design, change management, and general knowledge of HR practices and Austrian labor law.\n- Familiarity with Microsoft Office and/or Google Workspace.\n- Strong communication, conflict resolution, and negotiation skills.\n\n### Nice-to-have Skills\n- Strategic thinking and leadership skills.\n\n## Benefits\n- Competitive salary based on experience and qualifications.\n- Performance-based bonuses.\n- Comprehensive health insurance, paid time off, and retirement benefits.\n- Opportunities for professional growth and development in a dynamic and innovative environment.\n\n## Work Environment\n- Full-time, permanent position.\n- Hybrid work model based in Vienna, Austria.\n- Standard business hours with flexibility for remote work.\n- Occasional travel may be required for business meetings.\n- Minimal physical demands typical of an office environment.\n\n## Application Instructions\nInterested candidates should apply by sending their resume and cover letter to careers@humblebridge.com. Submit your application through our online portal or email your resume and cover letter to careers@humblebridge.com.\n\n## Additional Information\n- Reports to the Head of People.\n- Immediate availability preferred.\n- Application deadline: November 15, 2023.\n- Interview process includes an initial phone screening, followed by two rounds of interviews with HR and business directors.\n\n## Equal Employment Opportunity (EEO) Statement\nHumble Bridge is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.\n\n## Diversity and Inclusion Statement\nWe believe in the power of diversity and inclusion to drive innovation and success. Our commitment to these values is reflected in our workplace culture and practices.\n\n---\n\n**Meta Information:**\n- **Title Tag:** HR Business Partner - Humble Bridge - Vienna\n- **Meta Description:** Join Humble Bridge as an HR Business Partner. Align HR strategies with business objectives in Vienna. 5 years experience required. Apply now!\n- **URL Structure:** /careers/human-resources/hr-business-partner-vienna\n\n**Call-To-Action:** Apply now by sending your resume and cover letter to careers@humblebridge.com.",
+  "meta_data": {
+    "title_tag": "```{\"onetonline_occupation_title\": \"Human Resources Managers\", \"onet_job_code\": \"11-3121.00\"}``` - \n    Humble Bridge is a leading AI/ML company dedicated to driving digital transformation across various industries. ...\n    ",
+    "meta_description": "# HR Business Partner - Hybrid, Vienna, Austria\n\n## Summary\nAs an HR Business Partner at Humble Bridge, you will play a pivotal role in aligning our HR strategi...",
+    "url_structure": "/careers/```{\"onetonline_occupation_title\":-\"human-resources-managers\",-\"onet_job_code\":-\"11-3121.00\"}```"
+  }
+}
