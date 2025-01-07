@@ -1,0 +1,9 @@
+# Ignore all CSV files
+*.csv
+# Ignore the environment directory
+myenv/
+*.db
+.db
+.lock
+*.lock
+.env
