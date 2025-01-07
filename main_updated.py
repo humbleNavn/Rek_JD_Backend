@@ -28,6 +28,12 @@ def main():
     *Tools: Familiarity with Microsoft Office and/or Google Workspace
     """
     
+    #list of section to be included in JD
+    #write a function to generate this - JD generation
+    # inputs - user requirement, list of sections(sections to be included in JD)
+    # output - list of sections in a dictionary format with key as section name and content as value
+    #SEO TO BE COMMENTED OUT FOR TIME BEING
+    
     seo_instructions = """
         Keyword Optimization: Use relevant keywords naturally throughout the job description. ...
         Job Title Clarity: Keep job titles concise and clear. ...
