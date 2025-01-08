@@ -43,7 +43,7 @@ def main():
         "list_of_sections_included": sections,
         "dict_of_sections_generated": jd_sections
     }
-    
+            
     # Save to file
     output_file = os.path.join('alternative_V1', 'jd_output.json')
     with open(output_file, 'w', encoding='utf-8') as f:
