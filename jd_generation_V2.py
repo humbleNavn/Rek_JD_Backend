@@ -140,6 +140,45 @@ def normalize_Backend_Response(jd_backendSchemaResponse: dict, updated_SEO_instr
     return call_llm(prompt)
 
 
+def generate_jd_sections(user_requirement: str, sections: List[str]) -> Dict[str, str]:
+    """
+    Generate job description sections based on user requirements.
+    
+    Args:
+        user_requirement (str): Raw user input containing job details
+        sections (List[str]): List of section names to include in the JD
+    
+    Returns:
+        Dict[str, str]: Dictionary with section names as keys and content as values
+    """
+    # Create system prompt for the LLM
+    prompt = f"""
+    Based on the following user requirements, generate content for each requested section of a job description.
+    Make sure the content is professional, clear, and aligned with the provided requirements.
+    
+    User Requirements:
+    {user_requirement}
+    
+    Generate content for each of the following sections:
+    {', '.join(sections)}
+    
+    Format the response as a JSON object where each key is a section name and its value is the corresponding content.
+    """
+    
+    try:
+        # Use the existing call_llm function
+        response = call_llm(prompt)
+        
+        # Parse the response and convert to dictionary
+        jd_sections = json.loads(response)
+        
+    except Exception as e:
+        jd_sections = json_repair.loads(response)
+
+    
+    return jd_sections
+
+
 # Main workflow
 def main_workflow(contexts: dict, user_requirement: str, jd_structure: str, seo_instructions: str, company_persona: str, job_title: str, updated_SEO_instructions: str):
     # Step 1: Generate the main Job Description

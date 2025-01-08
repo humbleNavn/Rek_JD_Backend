@@ -1,0 +1,43 @@
+{
+  "user_req": "\n    *Title: HR Business Partner\n    *Experience: 5+ years in HR management, preferably in a similar role\n    *Education: Degree in Business Administration, Psychology, International Cultural and Business Studies, or related field\n    *HR strategy, workforce planning, succession planning, leadership coaching, labor relations, Employee experience, organizational design, change management\n    *General knowledge of HR practices and Austrian labor law\n    *Fluent in English (business), conversational in German\n    *Tools: Familiarity with Microsoft Office and/or Google Workspace\n    ",
+  "list_of_sections_included": [
+    "Job Title",
+    "Location",
+    "Job Type",
+    "Salary",
+    "Company Name",
+    "Job Summary",
+    "Responsibilities",
+    "Requirements",
+    "Preferred Requirements"
+  ],
+  "dict_of_sections_generated": {
+    "Job Title": "HR Business Partner",
+    "Location": "Vienna, Austria",
+    "Job Type": "Full-time",
+    "Salary": "Competitive, based on experience",
+    "Company Name": "Global Solutions Inc.",
+    "Job Summary": "As an HR Business Partner at Global Solutions Inc., you will play a pivotal role in aligning our human resources strategy with business objectives. You will work closely with leadership to drive workforce planning, succession planning, and organizational design. Your expertise in labor relations and change management will be crucial in enhancing employee experience and fostering a positive work environment.",
+    "Responsibilities": [
+      "Develop and implement HR strategies that align with the company's business goals.",
+      "Lead workforce planning and succession planning initiatives to ensure a robust talent pipeline.",
+      "Provide leadership coaching and support to enhance management capabilities.",
+      "Manage labor relations and ensure compliance with Austrian labor law.",
+      "Drive employee experience initiatives to foster a positive and engaging work environment.",
+      "Collaborate with management on organizational design and change management projects.",
+      "Utilize HR metrics to inform decision-making and improve HR processes."
+    ],
+    "Requirements": [
+      "Bachelor's degree in Business Administration, Psychology, International Cultural and Business Studies, or a related field.",
+      "5+ years of experience in HR management, preferably in a similar role.",
+      "Strong understanding of HR practices and Austrian labor law.",
+      "Fluent in English (business level) and conversational in German.",
+      "Proficient in Microsoft Office and/or Google Workspace."
+    ],
+    "Preferred Requirements": [
+      "Experience in a multinational company or a similar industry.",
+      "Certification in HR (e.g., SHRM-CP, PHR).",
+      "Demonstrated ability to lead HR projects and initiatives."
+    ]
+  }
+}
